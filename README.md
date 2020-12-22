@@ -3,3 +3,4 @@
 ตัวอย่างการแทรกรูป
 insert image
 ![jin](jin.jpg)
+ขั้นตอนการบันทึกจาก google colab ลงใน github

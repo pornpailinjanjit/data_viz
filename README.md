@@ -4,3 +4,4 @@
 insert image
 ![jin](jin.jpg)
 ขั้นตอนการบันทึกจาก google colab ลงใน github
+1.สร้างที่เก็บใน github
